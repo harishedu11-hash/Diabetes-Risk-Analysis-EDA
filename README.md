@@ -23,3 +23,4 @@ Healthy BMI: Approximately ~93% of the population is healthy, with a minimal dia
 Obese II+ Category: The percentage of diabetic individuals increases significantly, surpassing 30% of that specific demographic.
 
 The "Pre-Diabetic" Signal: There is a notable expansion in pre-diabetic cases as BMI increases, suggesting that weight management is a primary preventative lever for early intervention.
+![BMI Analysis](bmi_prevalence.png)
