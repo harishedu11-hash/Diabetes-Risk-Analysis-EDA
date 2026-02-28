@@ -12,3 +12,14 @@ BMI Impact: There is a clear upward trend in median BMI from the Healthy group t
 🛠️ Tools Used
 Python (Pandas, Seaborn, Matplotlib)
 VS Code
+
+📊 Clinical Observation: BMI vs. Diabetes Prevalence
+My analysis of the BRFSS dataset reveals a strong positive correlation between Body Mass Index (BMI) and diabetic status.
+
+Key Findings:
+
+Healthy BMI: Approximately ~93% of the population is healthy, with a minimal diabetic presence.
+
+Obese II+ Category: The percentage of diabetic individuals increases significantly, surpassing 30% of that specific demographic.
+
+The "Pre-Diabetic" Signal: There is a notable expansion in pre-diabetic cases as BMI increases, suggesting that weight management is a primary preventative lever for early intervention.
